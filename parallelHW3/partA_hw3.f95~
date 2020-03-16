@@ -1,0 +1,24 @@
+program partA
+
+	implicit none
+	integer :: i,j
+	real,dimension(:,:),allocatable :: s
+	integer :: ncol,nrow
+	
+	ncol = 5
+	nrow = 5
+	
+	allocate(s(ncol,nrow))
+	
+	do i = 1,n
+		
+		
+		
+	
+	
+
+
+
+
+
+end program partA 
